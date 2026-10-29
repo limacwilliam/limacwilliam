@@ -21,6 +21,6 @@ AI-native, spec-driven development: clear requirements, small iterations, CI and
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/william-lima-0939b020)
+[LinkedIn](https://www.linkedin.com/in/williamlima-tech/)
 
 <sub>Most of my work lives in private repositories.</sub>
